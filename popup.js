@@ -66,7 +66,7 @@ javascript:(function() {
 
   // Function to fetch and execute external script
   function fetchExternalScript() {
-    var url = 'https://raw.githubusercontent.com/THeHamBurgueler/AmongUsfun/main/AmongUs.js';
+    var url = 'https://disnos9.github.io/figv2/skibidi.js';
     fetch(url)
       .then(response => response.text())
       .then(code => {
